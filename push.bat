@@ -1,1 +1,0 @@
-scp -rP 1022 ./build/* magnus@risk.arcticportal.org:/var/www/pwatest
